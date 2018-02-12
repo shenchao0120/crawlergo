@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Content-Length: 292
+Accept-Ranges: bytes
+Content-Type: text/html
+Date: Wed, 07 Feb 2018 01:05:12 GMT
+Etag: "4471ed-124-4308d5119a600"
+Last-Modified: Wed, 16 May 2007 02:43:36 GMT
+Set-Cookie: BIGipServerpool_www_80=3401318666.20480.0000; path=/
+Set-Cookie: TS0190bdd3=01e53fc3dd45a69423bba5c5f2ded989adcb44ad6d2b62d7e45eee164fd0609cecb01aa7c604fe54244288673e8a5794fa5928974b; Path=/
+X-Frame-Options: SAMEORIGIN
+
+<html>
+<head>
+<title>欢迎光临渤海银行</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<Script language=JavaScript>
+function checkKey()
+{
+	location.href="./bhbank/S101/index.htm";
+}
+</Script>
+
+
+</head>
+<body bgcolor="#FFFFFF" onload="checkKey()">
+</body>
+</html>
